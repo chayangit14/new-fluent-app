@@ -1,0 +1,6 @@
+{
+    "scope": "x_176822_app",
+    "scopeId": "bf5605809fc946f4bdcf84699ce79231",
+    "name": "My App",
+    "tsconfigPath": "./src/server/tsconfig.json"
+}
